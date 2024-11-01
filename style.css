@@ -1,0 +1,29 @@
+button{ 
+    margin-top: 10px; 
+} 
+.h1{
+    padding-top: 0;
+}
+.container{ 
+    display: none; 
+    max-width: 40rem; 
+    border: 3px solid black; 
+    border-radius: 8px; 
+    padding: 8px; 
+    width: 740px; 
+    height: 740px; 
+    align-content: center; 
+    flex-direction: column; 
+    justify-content: center; 
+} 
+.box{ 
+    max-width: 18rem; 
+    text-align: center; 
+    border: 3px solid black; 
+    border-radius: 8px; 
+    padding: 8px; 
+    display: flex; 
+    align-items: center; 
+    flex-direction: column; 
+    justify-content: center; 
+}
